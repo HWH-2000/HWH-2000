@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 👋 Hi, This is HWH
+- 🙋‍♂️ I am currently a cs graduate student in uestc
+- 🌱 My research interests focus on **Multimodal**, **Deep Learning**
+- 😄 Hope to learn more about AI
 <!--
 **HWHHWHNO1/HWHHWHNO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
