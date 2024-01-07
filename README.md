@@ -1,6 +1,6 @@
 ### 👋 Hi, This is HWH
 - 🙋‍♂️ I am currently a cs graduate student in **UESTC**
-- 🌱 My research interests focus on **Multimodal**, **Deep Learning**
+- 🌱 My research interests focus on **Multimodal**, **Social Media Analysis**
 - 😄 Hope to learn more about AI
 - 📫 How to reach me: wenhaohu2000@gmail.com
 
