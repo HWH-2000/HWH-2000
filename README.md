@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hwh-2000.github.io/">Homepage</a> •
-  <a href="www.linkedin.com/in/wenhao-hu-hwh2000">LinkedIN</a> •
+  <a href="https://www.linkedin.com/in/wenhao-hu-hwh2000/">LinkedIN</a> •
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=TIGGcswAAAAJ&view_op=list_works&gmla=AH70aAWefz5Qp0yWo4VHS8X6lGJQJ9cxpi-59q5AfEg36dhID_w965Xhp33cHFUacqH6OrdCImtyg-04Tvu8wCTgCP1yLiBQIkJFVgyS5UA">Google Scholar</a>
 </p>
 
