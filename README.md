@@ -6,9 +6,9 @@
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=TIGGcswAAAAJ&view_op=list_works&gmla=AH70aAWefz5Qp0yWo4VHS8X6lGJQJ9cxpi-59q5AfEg36dhID_w965Xhp33cHFUacqH6OrdCImtyg-04Tvu8wCTgCP1yLiBQIkJFVgyS5UA">Google Scholar</a>
 </p>
 
-- 🙋‍♂️ I am currently a cs graduate student in **UESTC**
-- 🌱 My research interests focus on **Multimodal**, **Social Media Analysis** 
-- 😄 Hope to learn more about AI
+- 🙋‍♂️ I am currently a cs graduate student in **UESTC**.
+- 🌱 My research interests focus on **Multimodal**, **Social Media Analysis**, **Large Language Model**.
+- 😄 Hope to learn more about AI.
 - 📫 How to reach me: wenhaohu2000@gmail.com
 - ✨ I am eagerly looking for a Ph.D. position in **Fall 2025**.
 <h2 align="center">Github stats :bar_chart:</h2>
