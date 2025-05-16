@@ -7,10 +7,10 @@
 </p>
 
 - 🙋‍♂️ I am currently a cs graduate student in **UESTC**.
-- 🌱 My research interests focus on **Multimodal**, **Social Media Analysis**, **Large Language Model**.
+- 🌱 My research interests focus on **Large Language Model**, **AI4Code**, **Social Media Analysis**, .
 - 😄 Hope to learn more about AI.
 - 📫 How to reach me: wenhaohu2000@gmail.com
-- ✨ I am eagerly looking for a Ph.D. position in **Fall 2025**.
+- ✨ I am an incoming Ph.D. student starting in Fall 2025.
 <h2 align="center">Github stats :bar_chart:</h2>
 
 
