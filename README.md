@@ -8,7 +8,7 @@
 </p>
 
 
-🎓 I recently received my Master’s degree in Computer Science from University of Electronic Science and Technology of China (**UESTC**).
+🎓 I recently received my Master’s degree in Computer Science from **UESTC**.
 
 🔬 My research interests lie in **Large Language Model**, **AI4Code**, and **Social Media Analysis**.
 
