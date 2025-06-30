@@ -3,14 +3,20 @@
 <p align="center">
   <a href="https://hwh-2000.github.io/">Homepage</a> •
   <a href="https://www.linkedin.com/in/wenhao-hu-hwh2000/">LinkedIN</a> •
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=TIGGcswAAAAJ&view_op=list_works&gmla=AH70aAWefz5Qp0yWo4VHS8X6lGJQJ9cxpi-59q5AfEg36dhID_w965Xhp33cHFUacqH6OrdCImtyg-04Tvu8wCTgCP1yLiBQIkJFVgyS5UA">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=TIGGcswAAAAJ&view_op=list_works&gmla=AH70aAWefz5Qp0yWo4VHS8X6lGJQJ9cxpi-59q5AfEg36dhID_w965Xhp33cHFUacqH6OrdCImtyg-04Tvu8wCTgCP1yLiBQIkJFVgyS5UA">Google Scholar</a> •
+   <a href="https://x.com/HVH_06">X</a> 
 </p>
 
-- 🙋‍♂️ I am currently a cs graduate student in **UESTC**.
-- 🌱 My research interests focus on **Large Language Model**, **AI4Code**, **Social Media Analysis**, .
-- 😄 Hope to learn more about AI.
-- 📫 How to reach me: wenhaohu2000@gmail.com
-- ✨ I am an incoming Ph.D. student starting in Fall 2025.
+
+🎓 I recently received my Master’s degree in Computer Science from University of Electronic Science and Technology of China (**UESTC**).
+
+🔬 My research interests lie in **Large Language Model**, **AI4Code**, and **Social Media Analysis**.
+
+🤖 I am especially interested in exploring and contributing to the field of GenAI.
+
+📫 You can reach me at: wenhaohu2000@gmail.com
+
+🎉 I will be joining a Ph.D. program starting Fall 2025.
 <h2 align="center">Github stats :bar_chart:</h2>
 
 
