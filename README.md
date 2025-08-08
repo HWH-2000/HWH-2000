@@ -10,7 +10,7 @@
 
 🎓 I recently received my Master’s degree in Computer Science from **UESTC**.
 
-🔬 My research interests lie in **Large Language Model**, **AI4Code**, and **Social Media Analysis**.
+🔬 My research interests lie in **Code Generation**, and **Social Media Analysis**.
 
 🤖 I am especially interested in exploring and contributing to the field of GenAI.
 
