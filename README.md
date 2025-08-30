@@ -10,13 +10,12 @@
 
 🎓 I recently received my Master’s degree in Computer Science from **UESTC**.
 
-🔬 My research interests lie in **Code Generation**, and **Social Media Analysis**.
+🔬 My research interests lie in **Large Language Model**, **Code Generation**, and **Social Media Analysis**.
 
 🤖 I am especially interested in exploring and contributing to the field of GenAI.
 
 📫 You can reach me at: wenhaohu2000@gmail.com
 
-🎉 I will be joining a Ph.D. program starting Fall 2025.
 <h2 align="center">Github stats :bar_chart:</h2>
 
 
